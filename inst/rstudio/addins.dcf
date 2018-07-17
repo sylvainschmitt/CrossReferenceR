@@ -1,0 +1,4 @@
+Name: CrossReferenceR
+Description: Helps insert cross references in bookdown documents
+Binding: crossreference
+Interactive: true

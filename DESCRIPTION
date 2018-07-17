@@ -1,0 +1,15 @@
+Package: CrossReferenceR
+Type: Package
+Title: An RStudio Addin to Insert Cross References in bookdown Documents
+Version: 0.1.0
+Author: Sylvain Schmitt
+Maintainer: Sylvain Schmitt <sylvain.schmitt@agroparistech.fr>
+Description: Contain an RStudio addin to insert cross references in bookdown documents with a minimal user interface.
+License: GPL-3
+LazyData: TRUE
+Imports:
+    shiny (>= 0.13),
+    miniUI (>= 0.1.1),
+    rstudioapi (>= 0.5),
+    RefManageR
+RoxygenNote: 5.0.1
